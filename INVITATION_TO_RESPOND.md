@@ -10,7 +10,7 @@ Particularly welcome are critiques that identify a specific passage, explain the
 
 The original essay will remain unchanged. Substantive responses, corrections, and further reflections may be collected and published separately, with appropriate attribution and permission.
 
-**Public discussion:** [Welcome to *Intelligence Is Not Enough* — A Forum for Inquiry and Dialogue](https://github.com/IntelligenceAndAgape/intelligence-is-not-enough/discussions/1). The discussion will become publicly accessible when the repository is released.
+**Public discussion:** [Welcome to *Intelligence Is Not Enough* — A Forum for Inquiry and Dialogue](https://github.com/IntelligenceAndAgape/intelligence-is-not-enough/discussions/1).
 
 **Detailed or private correspondence:** IntelligenceAndAgape@gmail.com.
 
