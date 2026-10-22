@@ -17,7 +17,7 @@ The approved 18-page PDF contains separate publication materials and an embedded
 
 ## Participation
 
-Critical discussion and constructive responses are welcome. The new repository's Discussions forum will be prepared separately before public release.
+Critical discussion and constructive responses are welcome in the [welcome discussion — A Forum for Inquiry and Dialogue](https://github.com/IntelligenceAndAgape/intelligence-is-not-enough/discussions/1). The discussion forum is configured and will become accessible to everyone when this repository is made public.
 
 Contact: IntelligenceAndAgape@gmail.com
 
